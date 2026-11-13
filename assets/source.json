@@ -1,0 +1,16 @@
+{
+  "title": "Boston Celtics vs New York Knicks Game 1 \u2014 Q1 04:28 to 04:20",
+  "original_filename": "boston-celtics-new-york-knicks-game-1-q1-04.28-04.20.mp4",
+  "source_folder": "https://drive.google.com/drive/folders/1eDJYqQ77Fytz15tKGdJCMeYSgmoQ-2-H",
+  "source_url": "https://drive.google.com/uc?export=download&id=1It3wz3eoGcjo6tI9OGUt3X69ZK6x5SNK",
+  "source_file_id": "1It3wz3eoGcjo6tI9OGUt3X69ZK6x5SNK",
+  "notebook_url": "https://github.com/roboflow/notebooks/blob/main/notebooks/basketball-ai-how-to-detect-track-and-identify-basketball-players.ipynb",
+  "tutorial_url": "https://roboflow.com/blog/identify-basketball-players",
+  "provenance": "Public sample linked by Piotr Skalski/Roboflow basketball player recognition tutorial. Broadcast sports footage. No independent redistribution license found in notebook.",
+  "bytes": 10443619,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "video_frames": 238,
+  "container_duration_seconds": 8.0
+}
