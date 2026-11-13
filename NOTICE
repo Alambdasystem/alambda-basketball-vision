@@ -1,0 +1,16 @@
+Alambda Basketball Vision
+Copyright 2026 Alambda Systems
+
+This repository contains an assisted computer-vision demonstration and renderer.
+Original project code is distributed under the Apache License, Version 2.0.
+
+The YOLOX post-processing implementation follows the OpenCV Zoo YOLOX example:
+https://github.com/opencv/opencv_zoo/tree/main/models/object_detection_yolox
+The upstream model-directory license is retained at assets/YOLOX_LICENSE.txt.
+
+The demonstration uses a public sample linked by Piotr Skalski / Roboflow:
+https://roboflow.com/blog/identify-basketball-players
+
+The source basketball broadcast, its teams, branding, and other third-party
+media remain the property of their respective rights holders. This notice and
+the project source-code license do not grant rights in that underlying media.

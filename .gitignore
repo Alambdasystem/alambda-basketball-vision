@@ -1,0 +1,31 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Downloaded inputs and temporary downloads
+assets/*.mp4
+assets/*.onnx
+assets/*.part
+
+# Reproducible inference/render intermediates
+output/detection_cache.json
+output/tracks_automatic.json
+output/*.mp4
+output/*.jpg
+output/*.png
+output/*.zip
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
