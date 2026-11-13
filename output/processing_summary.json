@@ -1,0 +1,140 @@
+{
+  "frames": 238,
+  "duration": 7.933333333333334,
+  "reviewed_anchors": 88,
+  "detected_observations": 2224,
+  "undetected_player_frames": 156,
+  "short_flow_continuations": 0,
+  "per_frame_min": 8,
+  "per_frame_max": 10,
+  "keyframe_review": [
+    {
+      "frame": 0,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 30,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 60,
+      "ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 90,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 120,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "frame": 150,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 180,
+      "ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 210,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "frame": 237,
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "note": "Counts are processing statistics, not independently measured accuracy."
+}

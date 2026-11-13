@@ -1,0 +1,540 @@
+[
+  {
+    "frame": 0,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          295.634,
+          535.535,
+          468.635,
+          765.858
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 9
+      },
+      {
+        "id": 2,
+        "bbox": [
+          771.993,
+          407.789,
+          873.459,
+          626.105
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      },
+      {
+        "id": 3,
+        "bbox": [
+          862.489,
+          224.792,
+          924.729,
+          412.427
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 4,
+        "bbox": [
+          1233.065,
+          386.31,
+          1340.819,
+          558.434
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 3
+      },
+      {
+        "id": 5,
+        "bbox": [
+          1298.453,
+          509.141,
+          1380.197,
+          741.766
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 30,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          607.614,
+          452.548,
+          722.573,
+          689.418
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 2
+      },
+      {
+        "id": 2,
+        "bbox": [
+          791.956,
+          418.251,
+          961.65,
+          667.083
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      },
+      {
+        "id": 3,
+        "bbox": [
+          708.133,
+          310.957,
+          812.415,
+          498.522
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      },
+      {
+        "id": 4,
+        "bbox": [
+          1140.264,
+          469.494,
+          1234.73,
+          763.241
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 5,
+        "bbox": [
+          1127.919,
+          568.96,
+          1206.17,
+          799.358
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 9
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 60,
+    "players": [
+      {
+        "id": 2,
+        "bbox": [
+          868.207,
+          363.649,
+          940.485,
+          558.974
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 3,
+        "bbox": [
+          752.263,
+          263.408,
+          851.428,
+          415.531
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 7
+      },
+      {
+        "id": 4,
+        "bbox": [
+          922.932,
+          457.353,
+          1075.271,
+          680.432
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      },
+      {
+        "id": 5,
+        "bbox": [
+          792.575,
+          612.792,
+          916.493,
+          848.196
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 90,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          873.05,
+          333.224,
+          985.179,
+          557.854
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1044.776,
+          365.539,
+          1182.428,
+          606.83
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 3
+      },
+      {
+        "id": 3,
+        "bbox": [
+          944.541,
+          200.887,
+          1029.125,
+          444.508
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 7
+      },
+      {
+        "id": 4,
+        "bbox": [
+          1127.065,
+          505.42,
+          1235.381,
+          731.719
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 9
+      },
+      {
+        "id": 5,
+        "bbox": [
+          602.424,
+          503.53,
+          703.508,
+          729.235
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 2
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 120,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          706.21,
+          320.684,
+          783.765,
+          556.258
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 8
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1099.709,
+          371.888,
+          1238.295,
+          626.949
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 2
+      },
+      {
+        "id": 3,
+        "bbox": [
+          904.001,
+          208.82,
+          977.624,
+          439.16
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 4,
+        "bbox": [
+          1068.305,
+          591.163,
+          1170.648,
+          817.552
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 5
+      },
+      {
+        "id": 5,
+        "bbox": [
+          430.604,
+          490.243,
+          557.405,
+          706.381
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 150,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          588.174,
+          314.421,
+          654.473,
+          554.195
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 9
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1149.51,
+          386.977,
+          1297.72,
+          658.273
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 0
+      },
+      {
+        "id": 3,
+        "bbox": [
+          869.607,
+          238.274,
+          956.298,
+          465.098
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 4,
+        "bbox": [
+          1056.886,
+          632.855,
+          1236.508,
+          895.165
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      },
+      {
+        "id": 5,
+        "bbox": [
+          376.026,
+          477.525,
+          516.117,
+          711.544
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 180,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          570.0,
+          315.0,
+          645.0,
+          552.0
+        ],
+        "bbox_source": "manual_review",
+        "note": "White jersey9 partially overlaps jersey7; anchor assists association only."
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1210.374,
+          330.637,
+          1314.607,
+          650.002
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 5
+      },
+      {
+        "id": 3,
+        "bbox": [
+          872.248,
+          243.917,
+          976.109,
+          489.817
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 3
+      },
+      {
+        "id": 4,
+        "bbox": [
+          905.104,
+          517.754,
+          1026.516,
+          809.824
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 8
+      },
+      {
+        "id": 5,
+        "bbox": [
+          525.0,
+          414.0,
+          647.0,
+          655.0
+        ],
+        "bbox_source": "manual_review",
+        "note": "White jersey7 body overlaps jersey9; separate reviewed bbox avoids merged detector candidate0."
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 210,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          564.247,
+          399.027,
+          658.914,
+          608.653
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 8
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1024.254,
+          408.013,
+          1173.708,
+          681.973
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 3
+      },
+      {
+        "id": 3,
+        "bbox": [
+          826.204,
+          366.62,
+          941.176,
+          589.157
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 0
+      },
+      {
+        "id": 4,
+        "bbox": [
+          685.772,
+          718.892,
+          838.624,
+          1024.874
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 7
+      },
+      {
+        "id": 5,
+        "bbox": [
+          578.647,
+          464.025,
+          678.26,
+          709.042
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  },
+  {
+    "frame": 237,
+    "players": [
+      {
+        "id": 1,
+        "bbox": [
+          525.667,
+          385.913,
+          606.19,
+          626.568
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 6
+      },
+      {
+        "id": 2,
+        "bbox": [
+          1021.54,
+          368.938,
+          1139.759,
+          644.237
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 4
+      },
+      {
+        "id": 3,
+        "bbox": [
+          826.795,
+          341.58,
+          930.746,
+          594.627
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 5
+      },
+      {
+        "id": 4,
+        "bbox": [
+          481.701,
+          733.464,
+          625.927,
+          1071.543
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 1
+      },
+      {
+        "id": 5,
+        "bbox": [
+          863.367,
+          463.757,
+          970.598,
+          731.145
+        ],
+        "bbox_source": "detector_candidate",
+        "candidate_index": 9
+      }
+    ],
+    "review": "Visual jersey-number and body-continuity matching to initial track; no face identification."
+  }
+]
